@@ -1,0 +1,268 @@
+@media only screen and (max-width: 1199.98px) {
+    .navbar-expand-lg .navbar-nav .nav-link {
+        font-size: 12px;
+    }
+    .reasonbox3 {
+        min-height: 184px !important;
+    }
+    .fiveReasons .reasonText {
+        min-height: 190px;
+    }
+    .sHeading {
+        margin: -20px 0 50px;
+        font-size: 24px;
+    }
+    .get-in-touch h3 {
+        font-size: 24px;
+    }
+    .get-in-touch p,
+    .get-in-touch ul li p {
+        font-size: 14px;
+    }
+    .get-in-touch {
+        padding: 80px 0 50px 70px;
+    }
+    .applyBox h3 {
+        font-size: 18px;
+    }
+    .applyBox p {
+        font-size: 14px;
+    }
+    .applyBox p {
+        min-height: 110px;
+    }
+    .careerMain p.subHeading {
+        margin: 0;
+    }
+    .constructionBody .underConstruction .heading {
+        font-size: 32px;
+    }
+    .constructionBody .underConstruction h3 {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .reasonbox2 {
+        min-height: 183px !important;
+    }
+    .reasonbox3 {
+        min-height: 257px !important;
+    }
+    .applyBox p {
+        font-size: 14px;
+    }
+    .applyBox h3 {
+        font-size: 18px;
+    }
+    .constructionBody .underConstruction .heading {
+        font-size: 24px;
+    }
+    .get-in-touch {
+        padding: 50px 0px 50px 15px;
+    }
+    .get-in-touch h3 {
+        font-size: 28px;
+    }
+    .get-in-touch p {
+        font-size: 14px;
+    }
+    .get-in-touch ul li p {
+        font-size: 14px;
+    }
+    .map iframe {
+        height: 878px;
+    }
+    .fiveReasons .reasonText p {
+        font-size: 14px;
+    }
+    .fiveReasons .reasonText {
+        min-height: 210px;
+    }
+    .fiveReasons .row .col-sm-6 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .fiveReasons .reasonText {
+        min-height: inherit;
+    }
+    .fiveReasons {
+        padding: 80px 0 40px;
+    }
+    .contact-banner .semText h5 span {
+        display: inline;
+    }
+    .applyBox h3 {
+        font-size: 16px;
+    }
+    .applyBox p {
+        font-size: 13px;
+    }
+    .casestudy-banner {
+        margin-bottom: 40px;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .reasonbox3 {
+        min-height: 292px !important;
+    }
+    .fiveReasons .reasonText p {
+        font-size: 14px;
+    }
+    .contact-banner .semText h5,
+    .career-banner .semText h5,
+    .insight-banner .semText h5,
+    .casestudy-banner .semText h5 {
+        margin: 10px 0 50px;
+    }
+    .insight-banner .semText h5 span,
+    .casestudy-banner .semText h5 span {
+        display: inline;
+    }
+    .contact-banner,
+    .career-banner,
+    .insight-banner,
+    .casestudy-banner {
+        min-height: inherit;
+    }
+    .careerMain .row .col-sm-4 {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+    .applyForm .row .col-sm-6 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .careerMain {
+        padding: 50px 0;
+    }
+    .constructionBody .underConstruction {
+        width: 400px;
+        max-width: 100%;
+        padding: 0 15px;
+    }
+    .searchEngineMain.padd-bt-80 {
+        padding-bottom: 20px !important;
+    }
+    .mainTechnique li figure {
+        width: 52px;
+        height: 52px;
+    }
+    .mainTechnique li p {
+        font-size: 16px;
+    }
+    .mainTechnique h3 {
+        font-size: 20px;
+        margin: 0 0 40px;
+    }
+    .mainTechnique {
+        padding: 40px 0;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .reasonbox1,
+    .reasonbox2 {
+        min-height: 105px !important;
+    }
+    .reasonbox3 {
+        min-height: 126px !important;
+    }
+    .reasonbox4 {
+        min-height: 143px !important;
+        margin-bottom: 0px !important;
+    }
+    .pd-lr {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .map iframe {
+        height: 365px;
+        margin-bottom: 16px;
+    }
+    .contact-banner .semText h5,
+    .career-banner .semText h5,
+    .insight-banner .semText h5,
+    .casestudy-banner .semText h5 {
+        font-size: 16px;
+        margin: 10px 0 45px;
+    }
+    .careerMain {
+        padding: 50px 0;
+    }
+    .get-in-touch {
+        padding: 40px 15px;
+    }
+    .careerMain .row .col-sm-4 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .careerMain h2.heading {
+        font-size: 24px;
+    }
+    .careerMain p.subHeading {
+        font-size: 14px;
+        margin: 0 0 40px;
+    }
+    .applyBox p {
+        min-height: inherit;
+    }
+    .applyBox {
+        margin-top: 0;
+    }
+    .applyForm {
+        padding: 40px 0;
+    }
+    .applyForm .heading {
+        font-size: 24px;
+    }
+    .constructionBody .underConstruction .heading {
+        font-size: 18px;
+    }
+    .constructionBody .underConstruction h3 {
+        font-size: 14px;
+    }
+    .seccasestudy .row .col-sm-3,
+    .seccasestudy .row .col-sm-8 .row .col-sm-4 {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+    .expertiseBox a,
+    .expertiseBox {
+        min-height: inherit;
+    }
+    .mainTechnique li figure {
+        width: 42px;
+        height: 42px;
+    }
+    .mainTechnique li p {
+        font-size: 14px;
+    }
+    .mainTechnique h3 {
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 379.98px) {
+    .seccasestudy .row .col-sm-3,
+    .seccasestudy .row .col-sm-8 .row .col-sm-4 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .mainTechnique li {
+        flex: 0 0 33.3333%;
+        margin-bottom: 25px;
+    }
+    .mainTechnique li:nth-child(4) {
+        margin-left: auto;
+        margin-bottom: 0px;
+    }
+    .mainTechnique li:nth-child(5) {
+        margin-right: auto;
+        margin-bottom: 0px;
+    }
+    .mainTechnique li figure {
+        margin: 0 0 15px;
+    }
+}
